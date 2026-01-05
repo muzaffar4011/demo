@@ -88,6 +88,17 @@ const config: Config = {
     ],
   ],
 
+  // Pass environment variables to client through head tags
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'text/javascript',
+      },
+      innerHTML: `window.CHATBOT_API_URL = "${process.env.CHATBOT_API_URL || process.env.REACT_APP_CHATBOT_API_URL || 'https://rag-chatbot-backend.onrender.com'}";`,
+    },
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',

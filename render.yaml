@@ -1,0 +1,36 @@
+services:
+  - type: web
+    name: rag-chatbot-backend
+    env: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    plan: free
+    envVars:
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: OPENROUTER_BASE_URL
+        value: https://openrouter.ai/api/v1
+      - key: QDRANT_URL
+        sync: false
+      - key: QDRANT_API_KEY
+        sync: false
+      - key: QDRANT_COLLECTION_NAME
+        value: physical_ai_book
+      - key: EMBEDDING_MODEL
+        value: openai/text-embedding-ada-002
+      - key: LLM_MODEL
+        value: qwen/qwen3-max
+      - key: RATE_LIMIT_REQUESTS
+        value: 10
+      - key: RATE_LIMIT_WINDOW
+        value: 60
+      - key: DEFAULT_CHUNK_SIZE
+        value: 1000
+      - key: DEFAULT_CHUNK_OVERLAP
+        value: 200
+      - key: BACKEND_API_KEY
+        sync: false
+        optional: true
+      - key: PYTHON_VERSION
+        value: 3.11.0
+

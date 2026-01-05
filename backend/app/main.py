@@ -12,9 +12,23 @@ app = FastAPI(
 )
 
 # Add CORS middleware
+# Allow requests from GitHub Pages and local development
+allowed_origins = [
+    "https://muzaffar4011.github.io",
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "http://127.0.0.1:3000",
+    "http://127.0.0.1:5173",
+]
+
+# Add environment variable for additional origins if needed
+import os
+additional_origins = os.getenv("ALLOWED_ORIGINS", "").split(",")
+allowed_origins.extend([origin.strip() for origin in additional_origins if origin.strip()])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, configure this properly
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
