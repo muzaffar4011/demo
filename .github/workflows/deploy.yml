@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           cd docusaurus
-          npm ci
+          npm install
 
       - name: Build website
         run: |
