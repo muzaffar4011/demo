@@ -1,0 +1,28 @@
+{
+  "id": "module-3/vslam-navigation",
+  "title": "VSLAM Navigation",
+  "description": "Visual Simultaneous Localization and Mapping (VSLAM) is a critical technology for humanoid robots to understand and navigate their environment using visual sensors. Isaac ROS provides optimized implementations for VSLAM and navigation tasks.",
+  "source": "@site/docs/module-3/vslam-navigation.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/vslam-navigation",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/vslam-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/vslam-navigation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "VSLAM Navigation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/isaac-sim"
+  },
+  "next": {
+    "title": "Nav2 Bipedal Planning",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/nav2-bipedal"
+  }
+}

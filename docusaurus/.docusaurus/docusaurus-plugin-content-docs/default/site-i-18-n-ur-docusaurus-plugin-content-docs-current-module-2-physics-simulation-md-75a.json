@@ -1,0 +1,28 @@
+{
+  "id": "module-2/physics-simulation",
+  "title": "Physics Simulation",
+  "description": "Physics simulation ڈیجیٹل ٹوئنز کا ایک اہم جزو ہے ہیومینوئڈ روبوٹکس کے لیے۔ یہ حقیقی hardware پر تعینات کرنے سے پہلے جسمانی تعاملات، forces، اور movements کی درست modeling کو ممکن بناتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/physics-simulation.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/physics-simulation",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/physics-simulation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Physics Simulation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ماڈیول 2 - ڈیجیٹل ٹوئن (Gazebo & Unity)",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/"
+  },
+  "next": {
+    "title": "Collisions",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/collisions"
+  }
+}

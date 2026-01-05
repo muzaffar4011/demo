@@ -1,0 +1,28 @@
+{
+  "id": "module-2/index",
+  "title": "ماڈیول 2 - ڈیجیٹل ٹوئن (Gazebo & Unity)",
+  "description": "فزیکل AI اور ہیومینوئڈ روبوٹکس: مجسم ذہانت کے ماڈیول 2 میں خوش آمدید۔ اس ماڈیول میں، آپ Gazebo اور Unity استعمال کرتے ہوئے ہیومینوئڈ روبوٹس کے لیے ڈیجیٹل ٹوئنز بنانے کے بارے میں سیکھیں گے، بشمول physics simulation، collision detection، اور sensor integration۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/index.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ماڈیول 2 - ڈیجیٹل ٹوئن (Gazebo & Unity)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ہیومینوئڈز کے لیے URDF",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids"
+  },
+  "next": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "nav.home": {
+    "message": "Home",
+    "description": "The label for the Home navigation link"
+  },
+  "nav.textbook": {
+    "message": "Textbook",
+    "description": "The label for the Textbook navigation link"
+  },
+  "hero.title.line1": {
+    "message": "Build the Future of",
+    "description": "First line of the hero title"
+  },
+  "hero.title.line2": {
+    "message": "Intelligent Robotics",
+    "description": "Second line of the hero title"
+  },
+  "hero.description": {
+    "message": "A comprehensive textbook covering ROS2, AI systems, VLA architectures, digital twins, and humanoid design — everything you need to master physical AI",
+    "description": "Hero section description"
+  },
+  "hero.button.getStarted": {
+    "message": "Get Started",
+    "description": "Get Started button text"
+  },
+  "hero.button.exploreModules": {
+    "message": "Explore Modules",
+    "description": "Explore Modules button text"
+  },
+  "learningPath.title": {
+    "message": "Learning Path",
+    "description": "Learning Path section title"
+  },
+  "learningPath.subtitle": {
+    "message": "Master physical AI through our structured 6-module curriculum",
+    "description": "Learning Path section subtitle"
+  },
+  "module.button.start": {
+    "message": "Start Module",
+    "description": "Start Module button text"
+  },
+  "cta.title": {
+    "message": "Start Your Robotics Journey",
+    "description": "CTA section title"
+  },
+  "cta.subtitle": {
+    "message": "Master the technologies powering the next generation of intelligent robots",
+    "description": "CTA section subtitle"
+  },
+  "cta.button": {
+    "message": "Begin Learning",
+    "description": "CTA button text"
+  }
+}
+

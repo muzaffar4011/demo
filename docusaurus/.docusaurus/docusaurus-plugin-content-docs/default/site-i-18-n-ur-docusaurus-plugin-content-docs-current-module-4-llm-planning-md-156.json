@@ -1,0 +1,28 @@
+{
+  "id": "module-4/llm-planning",
+  "title": "LLM Cognitive Planning",
+  "description": "Large Language Models (LLMs) cognitive planning capabilities فراہم کرتے ہیں جو ہیومینوئڈ روبوٹس کو پیچیدہ natural language commands سمجھنے اور appropriate action sequences generate کرنے کے قابل بناتے ہیں۔ یہ سبق robotic task planning کے لیے LLMs کے انضمام کا احاطہ کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-4/llm-planning.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/llm-planning",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/llm-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "LLM Cognitive Planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action"
+  },
+  "next": {
+    "title": "Capstone Project",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-1/ros-nodes",
+  "title": "ROS نوڈز",
+  "description": "ROS 2 میں، ایک نوڈ ایک پروسیس ہے جو کمپیوٹیشن انجام دیتا ہے۔ نوڈز ROS 2 سسٹم کے بنیادی بلڈنگ بلاکس ہیں۔ وہ ٹاپکس، سروسز، ایکشنز، اور پیرامیٹرز کا استعمال کرتے ہوئے دوسرے نوڈز کے ساتھ بات چیت کرتے ہیں۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/ros-nodes.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/ros-nodes",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/ros-nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "ROS نوڈز"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ماڈیول 1 - روبوٹک اعصابی نظام (ROS 2)",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/"
+  },
+  "next": {
+    "title": "ٹاپکس اور سروسز",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services"
+  }
+}

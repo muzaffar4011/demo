@@ -1,0 +1,28 @@
+{
+  "id": "appendix/troubleshooting",
+  "title": "Troubleshooting Guide",
+  "description": "یہ guide Physical AI & Humanoid Robotics systems تیار کرنے اور operate کرنے کے دوران سامنے آنے والے عام مسائل کے حل فراہم کرتی ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/appendix/troubleshooting.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/troubleshooting",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Troubleshooting Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Project",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project"
+  },
+  "next": {
+    "title": "اکثر پوچھے جانے والے سوالات",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/faq"
+  }
+}

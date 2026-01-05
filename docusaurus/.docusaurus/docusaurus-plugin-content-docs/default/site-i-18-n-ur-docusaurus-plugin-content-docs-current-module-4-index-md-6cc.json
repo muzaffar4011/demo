@@ -1,0 +1,28 @@
+{
+  "id": "module-4/index",
+  "title": "ماڈیول 4 - Vision-Language-Action (VLA)",
+  "description": "فزیکل AI اور ہیومینوئڈ روبوٹکس: مجسم ذہانت کے ماڈیول 4 میں خوش آمدید۔ اس ماڈیول میں، آپ OpenAI Whisper اور LLM cognitive planning استعمال کرتے ہوئے natural language commands کے لیے voice-controlled ہیومینوئڈ روبوٹس لاگو کرنے کے بارے میں سیکھیں گے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-4/index.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ماڈیول 4 - Vision-Language-Action (VLA)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nav2 Bipedal Planning",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/nav2-bipedal"
+  },
+  "next": {
+    "title": "Voice-to-Action",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action"
+  }
+}

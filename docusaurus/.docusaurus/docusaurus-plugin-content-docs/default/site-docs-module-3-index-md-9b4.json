@@ -1,0 +1,28 @@
+{
+  "id": "module-3/index",
+  "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Welcome to Module 3 of Physical AI & Humanoid Robotics: Embodied Intelligence. In this module, you'll explore NVIDIA Isaac for creating intelligent robot behaviors, including visual SLAM, navigation, and bipedal path planning.",
+  "source": "@site/docs/module-3/index.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensors",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/sensors"
+  },
+  "next": {
+    "title": "Isaac Sim",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/isaac-sim"
+  }
+}

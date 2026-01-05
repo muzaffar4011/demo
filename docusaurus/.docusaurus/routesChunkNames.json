@@ -1,0 +1,349 @@
+{
+  "/physical-ai-humanoid-robotics/ur/blog-fc5": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "114484ed"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/archive-161": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "499b534f"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/authors-772": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "835f1f5c"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/authors/all-sebastien-lorber-articles-a20": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "8637f623"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/authors/yangshun-f4b": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "ee1eb4dd"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/first-blog-post-779": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/long-blog-post-23f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/mdx-blog-post-577": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/tags-6a3": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "7bb6846f"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/tags/docusaurus-201": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "0804d0fe"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/tags/facebook-3bd": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "5bbf05bf"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/tags/hello-7e7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "0f8dc8ae"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/tags/hola-07c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "dbe07073"
+  },
+  "/physical-ai-humanoid-robotics/ur/blog/welcome-3c2": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/physical-ai-humanoid-robotics/ur/markdown-page-9d8": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs-742": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/physical-ai-humanoid-robotics/ur/docs-e5f": {
+    "__comp": "a7bd4aaa",
+    "__props": "94b610b0"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs-a1a": {
+    "__comp": "a94703ab"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/appendix/faq-b4e": {
+    "__comp": "17896441",
+    "content": "31286606"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/appendix/glossary-bc1": {
+    "__comp": "17896441",
+    "content": "bd7de937"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting-232": {
+    "__comp": "17896441",
+    "content": "180b30f8"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/intro-a12": {
+    "__comp": "17896441",
+    "content": "9e1a014e"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-1/-36c": {
+    "__comp": "17896441",
+    "content": "d7760d69"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge-9a6": {
+    "__comp": "17896441",
+    "content": "8494b34e"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes-fda": {
+    "__comp": "17896441",
+    "content": "e2d374e4"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services-957": {
+    "__comp": "17896441",
+    "content": "d46b4f6c"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids-16d": {
+    "__comp": "17896441",
+    "content": "afc6ebe2"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-2/-8ac": {
+    "__comp": "17896441",
+    "content": "03fd9f64"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-2/collisions-8e1": {
+    "__comp": "17896441",
+    "content": "fa7d7958"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation-58c": {
+    "__comp": "17896441",
+    "content": "75ace6ba"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-2/rendering-5a6": {
+    "__comp": "17896441",
+    "content": "318c09ec"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-2/sensors-cff": {
+    "__comp": "17896441",
+    "content": "aaed9f92"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-3/-63a": {
+    "__comp": "17896441",
+    "content": "2b85dc65"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim-fb7": {
+    "__comp": "17896441",
+    "content": "6a81b577"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-3/nav2-bipedal-a20": {
+    "__comp": "17896441",
+    "content": "9c901ec5"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-3/vslam-navigation-53f": {
+    "__comp": "17896441",
+    "content": "9943b416"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-4/-b5d": {
+    "__comp": "17896441",
+    "content": "6cc7549c"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project-e49": {
+    "__comp": "17896441",
+    "content": "875d5c2c"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning-dca": {
+    "__comp": "17896441",
+    "content": "1565cfbb"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action-f4b": {
+    "__comp": "17896441",
+    "content": "844738b1"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/congratulations-7f8": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-blog-post-82d": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-document-60f": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-page-e76": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/deploy-your-site-764": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/markdown-features-202": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/manage-docs-versions-fb1": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/translate-your-site-cd4": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/physical-ai-humanoid-robotics/ur/-8ee": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

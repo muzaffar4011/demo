@@ -1,0 +1,28 @@
+{
+  "id": "module-4/voice-to-action",
+  "title": "Voice-to-Action",
+  "description": "Voice-to-action systems enable humanoid robots to understand spoken commands and translate them into robotic actions. This technology provides a natural interface for human-robot interaction.",
+  "source": "@site/docs/module-4/voice-to-action.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/voice-to-action",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-4/voice-to-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/voice-to-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Voice-to-Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4 - Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/"
+  },
+  "next": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/llm-planning"
+  }
+}

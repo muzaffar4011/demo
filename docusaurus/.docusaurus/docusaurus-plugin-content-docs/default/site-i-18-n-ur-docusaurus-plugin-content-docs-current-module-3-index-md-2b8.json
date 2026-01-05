@@ -1,0 +1,28 @@
+{
+  "id": "module-3/index",
+  "title": "ماڈیول 3 - AI-روبوٹ دماغ (NVIDIA Isaac™)",
+  "description": "فزیکل AI اور ہیومینوئڈ روبوٹکس: مجسم ذہانت کے ماڈیول 3 میں خوش آمدید۔ اس ماڈیول میں، آپ intelligent روبوٹ رویے بنانے کے لیے NVIDIA Isaac کو دریافت کریں گے، بشمول visual SLAM، navigation، اور bipedal path planning۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-3/index.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ماڈیول 3 - AI-روبوٹ دماغ (NVIDIA Isaac™)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensors",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/sensors"
+  },
+  "next": {
+    "title": "Isaac Sim",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim"
+  }
+}

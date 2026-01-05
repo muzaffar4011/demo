@@ -1,0 +1,28 @@
+{
+  "id": "module-1/urdf-humanoids",
+  "title": "URDF for Humanoids",
+  "description": "Unified Robot Description Format (URDF) is an XML format for representing a robot model. URDF is used in ROS to describe the physical and kinematic properties of a robot, including its joints, links, and visual/inertial properties. For humanoid robots, URDF is crucial for simulation, visualization, and kinematic calculations.",
+  "source": "@site/docs/module-1/urdf-humanoids.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/urdf-humanoids",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-1/urdf-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/urdf-humanoids.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "URDF for Humanoids"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rclpy Bridge",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/rclpy-bridge"
+  },
+  "next": {
+    "title": "Module 2 - The Digital Twin (Gazebo & Unity)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/"
+  }
+}

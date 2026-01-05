@@ -1,0 +1,104 @@
+# RAG Chatbot API Contract
+
+## Overview
+The RAG Chatbot API provides endpoints for chat interactions and document ingestion for the Physical AI & Humanoid Robotics book.
+
+## Endpoints
+
+### POST /api/chat
+**Description**: Process a chat message and return a response based on the book content
+
+**Request Body**:
+```json
+{
+  "message": "What is a ROS 2 node?",
+  "session_id": "optional-session-id",
+  "context": "optional context from selected page text",
+  "model_config": {
+    "temperature": 0.7,
+    "max_tokens": 1000
+  }
+}
+```
+
+**Response**:
+```json
+{
+  "response": "A ROS 2 node is...",
+  "sources": [
+    {
+      "document_id": "doc-123",
+      "title": "ROS Nodes Documentation",
+      "url": "/docs/module-1/ros-nodes",
+      "relevance_score": 0.92
+    }
+  ],
+  "session_id": "new-or-existing-session-id",
+  "latency": 2.45
+}
+```
+
+**Status Codes**:
+- `200`: Success
+- `400`: Invalid request parameters
+- `429`: Rate limit exceeded
+- `500`: Server error
+
+### POST /api/ingest
+**Description**: Ingest documents from the Physical AI & Humanoid Robotics book
+
+**Request Body**:
+```json
+{
+  "source": "docusaurus/docs",
+  "recursive": true,
+  "filters": [".md", ".mdx"],
+  "chunk_size": 1000,
+  "chunk_overlap": 200
+}
+```
+
+**Response**:
+```json
+{
+  "status": "processing",
+  "documents_processed": 24,
+  "chunks_created": 156,
+  "processing_time": 15.32
+}
+```
+
+**Status Codes**:
+- `200`: Processing started successfully
+- `400`: Invalid source or parameters
+- `500`: Server error during ingestion
+
+### GET /api/health
+**Description**: Check the health status of the RAG service
+
+**Response**:
+```json
+{
+  "status": "healthy",
+  "models_loaded": true,
+  "vector_db_connected": true,
+  "timestamp": "2025-12-18T10:30:00Z"
+}
+```
+
+**Status Codes**:
+- `200`: Service is healthy
+- `503`: Service is unhealthy
+
+## Validation Rules
+- Message must be 1-2000 characters
+- Session ID must be a valid UUID if provided
+- Context must be 1-10000 characters if provided
+- Temperature must be between 0.0 and 1.0
+- Max tokens must be between 100 and 4000
+
+## Performance Requirements
+- Response time: <5 seconds for 95% of requests
+- Must handle 100 concurrent users
+- 99.9% uptime during business hours
+- Embedding generation under 2 seconds per document

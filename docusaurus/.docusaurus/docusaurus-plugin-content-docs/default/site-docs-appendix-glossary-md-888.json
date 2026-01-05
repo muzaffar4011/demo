@@ -1,0 +1,24 @@
+{
+  "id": "appendix/glossary",
+  "title": "Glossary",
+  "description": "This glossary provides definitions for key terms used throughout the Physical AI & Humanoid Robotics documentation.",
+  "source": "@site/docs/appendix/glossary.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/glossary",
+  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Glossary"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq"
+  }
+}

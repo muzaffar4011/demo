@@ -1,0 +1,28 @@
+{
+  "id": "module-1/topics-services",
+  "title": "ٹاپکس اور سروسز",
+  "description": "ROS 2 دو بنیادی مواصلاتی پیٹرنز فراہم کرتا ہے: ٹاپکس (asynchronous، broadcast مواصلات کے لیے) اور سروسز (synchronous، request-response مواصلات کے لیے)۔ ان پیٹرنز کو سمجھنا موثر روبوٹک سسٹمز ڈیزائن کرنے کے لیے بہت اہم ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/topics-services.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/topics-services",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/topics-services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "ٹاپکس اور سروسز"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS نوڈز",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes"
+  },
+  "next": {
+    "title": "rclpy برج",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge"
+  }
+}

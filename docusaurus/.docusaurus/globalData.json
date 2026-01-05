@@ -1,0 +1,170 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/physical-ai-humanoid-robotics/ur/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/physical-ai-humanoid-robotics/ur/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "appendix/faq",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/appendix/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "appendix/glossary",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/appendix/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "appendix/troubleshooting",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/index",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/rclpy-bridge",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/ros-nodes",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/topics-services",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/urdf-humanoids",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/collisions",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-2/collisions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/index",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/physics-simulation",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/rendering",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-2/rendering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/sensors",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-2/sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/index",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/isaac-sim",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/nav2-bipedal",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-3/nav2-bipedal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/vslam-navigation",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-3/vslam-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/capstone-project",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/index",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-4/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/llm-planning",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/voice-to-action",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/physical-ai-humanoid-robotics/ur/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

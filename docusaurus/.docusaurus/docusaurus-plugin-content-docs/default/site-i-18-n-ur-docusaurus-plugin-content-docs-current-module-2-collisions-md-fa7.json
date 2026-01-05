@@ -1,0 +1,28 @@
+{
+  "id": "module-2/collisions",
+  "title": "Collisions",
+  "description": "Collision detection ہیومینوئڈ روبوٹس کے لیے physics simulation کا ایک اہم جزو ہے، environment کے ساتھ realistic interactions کو یقینی بناتا ہے اور روبوٹ کے parts کو obstacles یا خود سے گزرنے سے روکتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/collisions.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/collisions",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/collisions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/collisions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Collisions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation"
+  },
+  "next": {
+    "title": "Rendering",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/rendering"
+  }
+}

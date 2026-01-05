@@ -1,0 +1,28 @@
+{
+  "id": "module-2/index",
+  "title": "Module 2 - The Digital Twin (Gazebo & Unity)",
+  "description": "Welcome to Module 2 of Physical AI & Humanoid Robotics: Embodied Intelligence. In this module, you'll learn about creating digital twins for humanoid robots using Gazebo and Unity, including physics simulation, collision detection, and sensor integration.",
+  "source": "@site/docs/module-2/index.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Module 2 - The Digital Twin (Gazebo & Unity)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "URDF for Humanoids",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/urdf-humanoids"
+  },
+  "next": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/physics-simulation"
+  }
+}

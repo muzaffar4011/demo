@@ -1,0 +1,213 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2563eb;
+  --ifm-color-primary-dark: #1d4ed8;
+  --ifm-color-primary-darker: #1a41b0;
+  --ifm-color-primary-darkest: #15348a;
+  --ifm-color-primary-light: #3b82f6;
+  --ifm-color-primary-lighter: #60a5fa;
+  --ifm-color-primary-lightest: #93c5fd;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #3b82f6;
+  --ifm-color-primary-dark: #2563eb;
+  --ifm-color-primary-darker: #1d4ed8;
+  --ifm-color-primary-darkest: #1e40af;
+  --ifm-color-primary-light: #60a5fa;
+  --ifm-color-primary-lighter: #93c5fd;
+  --ifm-color-primary-lightest: #bfdbfe;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Educational content styling */
+.educational-note {
+  border-left: 4px solid var(--ifm-color-primary);
+  background-color: rgba(37, 99, 235, 0.1);
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.learning-objective {
+  border-left: 4px solid #10b981;
+  background-color: rgba(16, 185, 129, 0.1);
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.code-explanation {
+  background-color: rgba(251, 191, 36, 0.1);
+  border-left: 4px solid #f59e0b;
+  padding: 1rem;
+  margin: 1.5rem 0;
+}
+
+.diagram-container {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+}
+
+/* Robotics-specific styling */
+.ros-node {
+  background-color: #e0e7ff;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+.sensor-icon {
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  background-color: #6366f1;
+  border-radius: 50%;
+  margin-right: 0.25rem;
+  vertical-align: middle;
+}
+
+/* Module-specific colors */
+.module-1 { background-color: #dbeafe; }
+.module-2 { background-color: #dcfce7; }
+.module-3 { background-color: #fef08a; }
+.module-4 { background-color: #ddd6fe; }
+
+/* Accessibility improvements */
+.screen-reader-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Improved focus indicators for accessibility */
+button:focus,
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced button transitions */
+button {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Improved link hover effects */
+a {
+  transition: color 0.2s ease;
+}
+
+/* Modern scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Dark mode scrollbar */
+[data-theme='dark'] ::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: #475569;
+}
+
+[data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
+  background: #64748b;
+}
+
+/* Smooth page transitions */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Dark mode support for educational content */
+[data-theme='dark'] .educational-note {
+  background-color: rgba(59, 130, 246, 0.15);
+  border-left-color: #60a5fa;
+}
+
+[data-theme='dark'] .learning-objective {
+  background-color: rgba(16, 185, 129, 0.15);
+  border-left-color: #34d399;
+}
+
+[data-theme='dark'] .code-explanation {
+  background-color: rgba(251, 191, 36, 0.15);
+  border-left-color: #fbbf24;
+}
+
+[data-theme='dark'] .diagram-container {
+  border-color: #475569;
+  background: #1e293b;
+}
+
+[data-theme='dark'] .ros-node {
+  background-color: #1e3a8a;
+  color: #bfdbfe;
+}
+
+[data-theme='dark'] .sensor-icon {
+  background-color: #818cf8;
+}
+
+[data-theme='dark'] .module-1 { 
+  background-color: #1e3a5f; 
+  color: #bfdbfe;
+}
+
+[data-theme='dark'] .module-2 { 
+  background-color: #064e3b; 
+  color: #a7f3d0;
+}
+
+[data-theme='dark'] .module-3 { 
+  background-color: #78350f; 
+  color: #fde68a;
+}
+
+[data-theme='dark'] .module-4 { 
+  background-color: #4c1d95; 
+  color: #ddd6fe;
+}
+
+/* Hide Docusaurus navbar on landing page */
+/* The navbar is hidden via the layoutWrapper class in index.module.css */

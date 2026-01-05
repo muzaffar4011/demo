@@ -1,0 +1,55 @@
+{
+  "nav.home": {
+    "message": "ہوم",
+    "description": "The label for the Home navigation link"
+  },
+  "nav.textbook": {
+    "message": "درسی کتاب",
+    "description": "The label for the Textbook navigation link"
+  },
+  "hero.title.line1": {
+    "message": "مستقبل بنائیں",
+    "description": "First line of the hero title"
+  },
+  "hero.title.line2": {
+    "message": "ذہین روبوٹکس کا",
+    "description": "Second line of the hero title"
+  },
+  "hero.description": {
+    "message": "ROS2، AI سسٹمز، VLA آرکیٹیکچرز، ڈیجیٹل ٹوئنز، اور ہیومینوئڈ ڈیزائن کا احاطہ کرنے والی ایک جامع درسی کتاب — فزیکل AI میں مہارت حاصل کرنے کے لیے آپ کو جس چیز کی ضرورت ہے",
+    "description": "Hero section description"
+  },
+  "hero.button.getStarted": {
+    "message": "شروع کریں",
+    "description": "Get Started button text"
+  },
+  "hero.button.exploreModules": {
+    "message": "ماڈیولز دریافت کریں",
+    "description": "Explore Modules button text"
+  },
+  "learningPath.title": {
+    "message": "سیکھنے کا راستہ",
+    "description": "Learning Path section title"
+  },
+  "learningPath.subtitle": {
+    "message": "ہمارے منظم 6 ماڈیول نصاب کے ذریعے فزیکل AI میں مہارت حاصل کریں",
+    "description": "Learning Path section subtitle"
+  },
+  "module.button.start": {
+    "message": "ماڈیول شروع کریں",
+    "description": "Start Module button text"
+  },
+  "cta.title": {
+    "message": "اپنی روبوٹکس کی سفر کا آغاز کریں",
+    "description": "CTA section title"
+  },
+  "cta.subtitle": {
+    "message": "اگلی نسل کے ذہین روبوٹس کو طاقت دینے والی ٹیکنالوجیز میں مہارت حاصل کریں",
+    "description": "CTA section subtitle"
+  },
+  "cta.button": {
+    "message": "سیکھنا شروع کریں",
+    "description": "CTA button text"
+  }
+}
+

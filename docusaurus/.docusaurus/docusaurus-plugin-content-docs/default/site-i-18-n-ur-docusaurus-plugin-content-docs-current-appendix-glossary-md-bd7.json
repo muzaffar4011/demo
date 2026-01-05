@@ -1,0 +1,24 @@
+{
+  "id": "appendix/glossary",
+  "title": "Glossary",
+  "description": "یہ glossary Physical AI & Humanoid Robotics documentation میں استعمال ہونے والی اہم اصطلاحات کی تعریفیں فراہم کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/appendix/glossary.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/glossary",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Glossary"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "اکثر پوچھے جانے والے سوالات",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/faq"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-1/index",
+  "title": "ماڈیول 1 - روبوٹک اعصابی نظام (ROS 2)",
+  "description": "فزیکل AI اور ہیومینوئڈ روبوٹکس: مجسم ذہانت کے ماڈیول 1 میں خوش آمدید۔ اس ماڈیول میں، آپ Robot Operating System (ROS 2) کے بارے میں سیکھیں گے، جو روبوٹک ایپلی کیشنز کے لیے اعصابی نظام کا کام کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/index.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "ماڈیول 1 - روبوٹک اعصابی نظام (ROS 2)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "تعارف",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/intro"
+  },
+  "next": {
+    "title": "ROS نوڈز",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes"
+  }
+}

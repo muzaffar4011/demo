@@ -1,0 +1,28 @@
+{
+  "id": "appendix/faq",
+  "title": "اکثر پوچھے جانے والے سوالات",
+  "description": "یہ سیکشن Physical AI & Humanoid Robotics ڈویلپمنٹ اور deployment کے بارے میں عام سوالات کا احاطہ کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/appendix/faq.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/faq",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "اکثر پوچھے جانے والے سوالات"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/glossary"
+  }
+}

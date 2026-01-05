@@ -1,0 +1,28 @@
+{
+  "id": "module-1/rclpy-bridge",
+  "title": "rclpy برج",
+  "description": "rclpy package ROS 2 کے لیے Python کلائنٹ لائبریری ہے۔ یہ ROS 2 packages تیار کرنے کے لیے Python API فراہم کرتا ہے اور Python ڈویلپرز کو ROS 2 نوڈز، publishers، subscribers، سروسز، اور مزید بنانے کے قابل بناتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/rclpy-bridge.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/rclpy-bridge",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/rclpy-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "rclpy برج"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ٹاپکس اور سروسز",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services"
+  },
+  "next": {
+    "title": "ہیومینوئڈز کے لیے URDF",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids"
+  }
+}

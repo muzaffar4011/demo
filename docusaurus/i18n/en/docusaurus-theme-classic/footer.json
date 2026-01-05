@@ -1,0 +1,19 @@
+{
+  "link.title.Learn": {
+    "message": "Learn",
+    "description": "The title of the footer links column with title=Learn in the footer"
+  },
+  "link.title.Resources": {
+    "message": "Resources",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Connect": {
+    "message": "Connect",
+    "description": "The title of the footer links column with title=Connect in the footer"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Physical AI & Humanoid Robotics. All rights reserved.",
+    "description": "The footer copyright"
+  }
+}
+

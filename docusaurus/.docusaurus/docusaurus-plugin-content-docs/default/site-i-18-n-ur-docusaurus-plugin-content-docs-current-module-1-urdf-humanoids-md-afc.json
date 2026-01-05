@@ -1,0 +1,28 @@
+{
+  "id": "module-1/urdf-humanoids",
+  "title": "ہیومینوئڈز کے لیے URDF",
+  "description": "Unified Robot Description Format (URDF) روبوٹ ماڈل کی نمائندگی کے لیے ایک XML format ہے۔ URDF کا استعمال ROS میں روبوٹ کی جسمانی اور kinematic خصوصیات کو بیان کرنے کے لیے کیا جاتا ہے، بشمول اس کے joints، links، اور visual/inertial خصوصیات۔ ہیومینوئڈ روبوٹس کے لیے، URDF simulation، visualization، اور kinematic calculations کے لیے بہت اہم ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/urdf-humanoids.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/urdf-humanoids",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/urdf-humanoids.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "ہیومینوئڈز کے لیے URDF"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rclpy برج",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge"
+  },
+  "next": {
+    "title": "ماڈیول 2 - ڈیجیٹل ٹوئن (Gazebo & Unity)",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/"
+  }
+}

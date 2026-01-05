@@ -1,0 +1,19 @@
+{
+  "link.title.Learn": {
+    "message": "سیکھیں",
+    "description": "The title of the footer links column with title=Learn in the footer"
+  },
+  "link.title.Resources": {
+    "message": "وسائل",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Connect": {
+    "message": "جڑیں",
+    "description": "The title of the footer links column with title=Connect in the footer"
+  },
+  "copyright": {
+    "message": "کاپی رائٹ © 2025 فزیکل AI اور ہیومینوئڈ روبوٹکس۔ تمام حقوق محفوظ ہیں۔",
+    "description": "The footer copyright"
+  }
+}
+

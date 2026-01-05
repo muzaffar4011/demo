@@ -1,0 +1,20 @@
+graph TD
+    A[Humanoid Status Publisher] -->|topic: /humanoid_status| B(Robot State Estimator)
+    C[Sensor Data Publisher] -->|topic: /joint_states| B
+    D[Command Subscriber] <--|topic: /robot_commands| E(Robot Controller)
+    F[Path Planner] -->|service: /set_pose| G{Set Pose Service}
+    G --> H[Robot Pose Controller]
+    I[IMU Sensor] -->|topic: /imu_data| J[State Estimator]
+    K[Camera] -->|topic: /camera/image| L[Perception Node]
+
+    style A fill:#cde4ff,stroke:#6495ED,stroke-width:2px
+    style B fill:#f0f8ff,stroke:#6495ED,stroke-width:2px
+    style C fill:#cde4ff,stroke:#6495ED,stroke-width:2px
+    style D fill:#fff0f5,stroke:#ff69b4,stroke-width:2px
+    style E fill:#f0fff0,stroke:#32cd32,stroke-width:2px
+    style F fill:#fff8dc,stroke:#daa520,stroke-width:2px
+    style G fill:#ffe4e1,stroke:#ff6347,stroke-width:2px
+    style H fill:#f0fff0,stroke:#32cd32,stroke-width:2px
+    style I fill:#e6e6fa,stroke:#9370db,stroke-width:2px
+    style K fill:#e6e6fa,stroke:#9370db,stroke-width:2px
+    style L fill:#f5f5dc,stroke:#d2b48c,stroke-width:2px

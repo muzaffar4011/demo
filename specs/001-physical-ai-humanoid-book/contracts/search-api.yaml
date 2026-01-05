@@ -1,0 +1,53 @@
+# Search API Contract
+
+## Overview
+The search API provides full-text search capabilities across the Physical AI & Humanoid Robotics documentation site.
+
+## Endpoints
+
+### GET /api/search
+**Description**: Search across all documentation content
+
+**Parameters**:
+- `q` (string, required): Search query term
+- `limit` (integer, optional): Maximum number of results to return (default: 10, max: 50)
+- `module` (string, optional): Filter by specific module (e.g., "module-1", "module-2")
+
+**Request Example**:
+```
+GET /api/search?q=ROS+nodes&limit=5
+```
+
+**Response**:
+```json
+{
+  "query": "ROS nodes",
+  "totalResults": 12,
+  "results": [
+    {
+      "id": "module-1/ros-nodes",
+      "title": "Understanding ROS Nodes",
+      "contentPreview": "ROS (Robot Operating System) nodes are processes that perform computation...",
+      "url": "/docs/module-1/ros-nodes",
+      "module": "module-1",
+      "relevance": 0.95
+    }
+  ],
+  "took": 45
+}
+```
+
+**Status Codes**:
+- `200`: Success
+- `400`: Invalid parameters
+- `500`: Server error
+
+## Validation Rules
+- Query must be 1-100 characters
+- Limit must be 1-50
+- Module must be one of: "module-1", "module-2", "module-3", "module-4", "appendix"
+
+## Performance Requirements
+- Response time: < 100ms for 95% of requests
+- Must handle 100 concurrent searches
+- Index must update within 5 minutes of content changes

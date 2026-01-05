@@ -1,0 +1,28 @@
+{
+  "id": "module-3/nav2-bipedal",
+  "title": "Nav2 Bipedal Planning",
+  "description": "Navigation 2 (Nav2) is the ROS 2 navigation stack that provides path planning and navigation capabilities. For humanoid robots, Nav2 requires special configuration to handle bipedal locomotion patterns and unique mobility constraints.",
+  "source": "@site/docs/module-3/nav2-bipedal.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/nav2-bipedal",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/nav2-bipedal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/nav2-bipedal.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Nav2 Bipedal Planning"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VSLAM Navigation",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/vslam-navigation"
+  },
+  "next": {
+    "title": "Module 4 - Vision-Language-Action (VLA)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/"
+  }
+}

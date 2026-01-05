@@ -1,0 +1,28 @@
+{
+  "id": "module-2/sensors",
+  "title": "Sensors",
+  "description": "سینسرز ڈیجیٹل ٹوئنز کے اہم اجزاء ہیں، ہیومینوئڈ روبوٹکس ایپلی کیشنز میں perception، navigation، اور control کے لیے ضروری ڈیٹا فراہم کرتے ہیں۔ یہ سبق simulation environments میں مختلف sensor types کے انضمام کا احاطہ کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/sensors.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/sensors",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "Sensors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rendering",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/rendering"
+  },
+  "next": {
+    "title": "ماڈیول 3 - AI-روبوٹ دماغ (NVIDIA Isaac™)",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/"
+  }
+}

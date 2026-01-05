@@ -1,0 +1,28 @@
+{
+  "id": "appendix/troubleshooting",
+  "title": "Troubleshooting Guide",
+  "description": "This guide provides solutions for common issues encountered when developing and operating Physical AI & Humanoid Robotics systems.",
+  "source": "@site/docs/appendix/troubleshooting.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/troubleshooting",
+  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Troubleshooting Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone Project",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/capstone-project"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4/capstone-project",
+  "title": "Capstone Project",
+  "description": "The capstone project integrates all modules to create an autonomous humanoid robot capable of receiving voice commands, understanding them cognitively, and executing appropriate actions in real-world environments.",
+  "source": "@site/docs/module-4/capstone-project.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/capstone-project",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-4/capstone-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/capstone-project.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Capstone Project"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/llm-planning"
+  },
+  "next": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/troubleshooting"
+  }
+}

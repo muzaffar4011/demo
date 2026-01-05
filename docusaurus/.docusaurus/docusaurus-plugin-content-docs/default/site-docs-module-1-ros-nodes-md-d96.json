@@ -1,0 +1,28 @@
+{
+  "id": "module-1/ros-nodes",
+  "title": "ROS Nodes",
+  "description": "In ROS 2, a node is a process that performs computation. Nodes are the fundamental building blocks of a ROS 2 system. They communicate with other nodes using topics, services, actions, and parameters.",
+  "source": "@site/docs/module-1/ros-nodes.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/ros-nodes",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-1/ros-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/ros-nodes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "ROS Nodes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/"
+  },
+  "next": {
+    "title": "Topics and Services",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/topics-services"
+  }
+}

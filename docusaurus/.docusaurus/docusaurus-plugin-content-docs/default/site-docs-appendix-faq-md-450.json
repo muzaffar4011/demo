@@ -1,0 +1,28 @@
+{
+  "id": "appendix/faq",
+  "title": "Frequently Asked Questions",
+  "description": "This section addresses common questions about Physical AI & Humanoid Robotics development and deployment.",
+  "source": "@site/docs/appendix/faq.md",
+  "sourceDirName": "appendix",
+  "slug": "/appendix/faq",
+  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Frequently Asked Questions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/troubleshooting"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/glossary"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-4/capstone-project",
+  "title": "Capstone Project",
+  "description": "Capstone project تمام modules کو integrate کرتا ہے تاکہ ایک autonomous ہیومینوئڈ روبوٹ بنایا جا سکے جو voice commands وصول کر سکتا ہے، انہیں cognitively سمجھ سکتا ہے، اور حقیقی دنیا کے environments میں appropriate actions perform کر سکتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-4/capstone-project.md",
+  "sourceDirName": "module-4",
+  "slug": "/module-4/capstone-project",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/capstone-project.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Capstone Project"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LLM Cognitive Planning",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning"
+  },
+  "next": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-2/collisions",
+  "title": "Collisions",
+  "description": "Collision detection is a critical component of physics simulation for humanoid robots, ensuring realistic interactions with the environment and preventing parts of the robot from passing through obstacles or itself.",
+  "source": "@site/docs/module-2/collisions.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/collisions",
+  "permalink": "/physical-ai-humanoid-robotics/docs/module-2/collisions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/collisions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Collisions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Physics Simulation",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/physics-simulation"
+  },
+  "next": {
+    "title": "Rendering",
+    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/rendering"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module-3/isaac-sim",
+  "title": "Isaac Sim",
+  "description": "Isaac Sim NVIDIA کا high-fidelity simulation environment ہے جو Omniverse platform پر بنایا گیا ہے۔ یہ photorealistic rendering، درست physics simulation، اور AI ماڈلز کو روبوٹکس ایپلی کیشنز کے لیے train کرنے کے لیے synthetic ڈیٹا پیدا کرنے کے ٹولز فراہم کرتا ہے۔",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-3/isaac-sim.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/isaac-sim",
+  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/isaac-sim.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Isaac Sim"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ماڈیول 3 - AI-روبوٹ دماغ (NVIDIA Isaac™)",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/"
+  },
+  "next": {
+    "title": "VSLAM Navigation",
+    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-3/vslam-navigation"
+  }
+}
