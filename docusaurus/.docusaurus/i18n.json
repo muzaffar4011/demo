@@ -5,7 +5,7 @@
     "ur"
   ],
   "path": "i18n",
-  "currentLocale": "ur",
+  "currentLocale": "en",
   "localeConfigs": {
     "en": {
       "label": "English",
@@ -14,8 +14,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": true,
-      "url": "https://your-username.github.io",
-      "baseUrl": "/physical-ai-humanoid-robotics/"
+      "url": "https://muzaffar4011.github.io",
+      "baseUrl": "/demo/"
     },
     "ur": {
       "label": "اردو",
@@ -24,8 +24,8 @@
       "calendar": "gregory",
       "path": "ur",
       "translate": true,
-      "url": "https://your-username.github.io",
-      "baseUrl": "/physical-ai-humanoid-robotics/ur/"
+      "url": "https://muzaffar4011.github.io",
+      "baseUrl": "/demo/ur/"
     }
   }
 }

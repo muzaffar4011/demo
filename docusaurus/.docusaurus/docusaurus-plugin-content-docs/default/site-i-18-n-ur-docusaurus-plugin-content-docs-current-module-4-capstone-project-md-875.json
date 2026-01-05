@@ -5,10 +5,10 @@
   "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-4/capstone-project.md",
   "sourceDirName": "module-4",
   "slug": "/module-4/capstone-project",
-  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project",
+  "permalink": "/demo/ur/docs/module-4/capstone-project",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-4/capstone-project.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-4/capstone-project.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "LLM Cognitive Planning",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning"
+    "permalink": "/demo/ur/docs/module-4/llm-planning"
   },
   "next": {
     "title": "Troubleshooting Guide",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting"
+    "permalink": "/demo/ur/docs/appendix/troubleshooting"
   }
 }

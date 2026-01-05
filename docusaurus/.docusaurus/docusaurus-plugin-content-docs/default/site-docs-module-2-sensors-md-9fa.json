@@ -5,10 +5,10 @@
   "source": "@site/docs/module-2/sensors.md",
   "sourceDirName": "module-2",
   "slug": "/module-2/sensors",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-2/sensors",
+  "permalink": "/demo/docs/module-2/sensors",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/sensors.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-2/sensors.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Rendering",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/rendering"
+    "permalink": "/demo/docs/module-2/rendering"
   },
   "next": {
     "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/"
+    "permalink": "/demo/docs/module-3/"
   }
 }

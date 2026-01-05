@@ -5,10 +5,10 @@
   "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/ros-nodes.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/ros-nodes",
-  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes",
+  "permalink": "/demo/ur/docs/module-1/ros-nodes",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/ros-nodes.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-1/ros-nodes.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ماڈیول 1 - روبوٹک اعصابی نظام (ROS 2)",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/"
+    "permalink": "/demo/ur/docs/module-1/"
   },
   "next": {
     "title": "ٹاپکس اور سروسز",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services"
+    "permalink": "/demo/ur/docs/module-1/topics-services"
   }
 }

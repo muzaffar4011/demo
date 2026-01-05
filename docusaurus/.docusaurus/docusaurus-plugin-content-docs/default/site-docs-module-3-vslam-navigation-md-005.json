@@ -5,10 +5,10 @@
   "source": "@site/docs/module-3/vslam-navigation.md",
   "sourceDirName": "module-3",
   "slug": "/module-3/vslam-navigation",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/vslam-navigation",
+  "permalink": "/demo/docs/module-3/vslam-navigation",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/vslam-navigation.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-3/vslam-navigation.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Isaac Sim",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/isaac-sim"
+    "permalink": "/demo/docs/module-3/isaac-sim"
   },
   "next": {
     "title": "Nav2 Bipedal Planning",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/nav2-bipedal"
+    "permalink": "/demo/docs/module-3/nav2-bipedal"
   }
 }

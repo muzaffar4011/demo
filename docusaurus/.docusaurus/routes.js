@@ -3,262 +3,262 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog', 'fc5'),
+    path: '/demo/blog',
+    component: ComponentCreator('/demo/blog', '9cb'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/archive',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/archive', '161'),
+    path: '/demo/blog/archive',
+    component: ComponentCreator('/demo/blog/archive', '373'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/authors',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/authors', '772'),
+    path: '/demo/blog/authors',
+    component: ComponentCreator('/demo/blog/authors', '74f'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/authors/all-sebastien-lorber-articles', 'a20'),
+    path: '/demo/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/demo/blog/authors/all-sebastien-lorber-articles', 'f99'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/authors/yangshun',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/authors/yangshun', 'f4b'),
+    path: '/demo/blog/authors/yangshun',
+    component: ComponentCreator('/demo/blog/authors/yangshun', 'aa4'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/first-blog-post',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/first-blog-post', '779'),
+    path: '/demo/blog/first-blog-post',
+    component: ComponentCreator('/demo/blog/first-blog-post', '02a'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/long-blog-post',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/long-blog-post', '23f'),
+    path: '/demo/blog/long-blog-post',
+    component: ComponentCreator('/demo/blog/long-blog-post', '3ad'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/mdx-blog-post',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/mdx-blog-post', '577'),
+    path: '/demo/blog/mdx-blog-post',
+    component: ComponentCreator('/demo/blog/mdx-blog-post', '294'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/tags',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/tags', '6a3'),
+    path: '/demo/blog/tags',
+    component: ComponentCreator('/demo/blog/tags', '9e0'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/tags/docusaurus',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/tags/docusaurus', '201'),
+    path: '/demo/blog/tags/docusaurus',
+    component: ComponentCreator('/demo/blog/tags/docusaurus', '64b'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/tags/facebook',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/tags/facebook', '3bd'),
+    path: '/demo/blog/tags/facebook',
+    component: ComponentCreator('/demo/blog/tags/facebook', 'ffe'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/tags/hello',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/tags/hello', '7e7'),
+    path: '/demo/blog/tags/hello',
+    component: ComponentCreator('/demo/blog/tags/hello', '326'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/tags/hola',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/tags/hola', '07c'),
+    path: '/demo/blog/tags/hola',
+    component: ComponentCreator('/demo/blog/tags/hola', '230'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/blog/welcome',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/blog/welcome', '3c2'),
+    path: '/demo/blog/welcome',
+    component: ComponentCreator('/demo/blog/welcome', 'dfb'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/markdown-page',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/markdown-page', '9d8'),
+    path: '/demo/markdown-page',
+    component: ComponentCreator('/demo/markdown-page', '3dc'),
     exact: true
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/docs',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs', '742'),
+    path: '/demo/docs',
+    component: ComponentCreator('/demo/docs', '3ed'),
     routes: [
       {
-        path: '/physical-ai-humanoid-robotics/ur/docs',
-        component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs', 'e5f'),
+        path: '/demo/docs',
+        component: ComponentCreator('/demo/docs', '6e1'),
         routes: [
           {
-            path: '/physical-ai-humanoid-robotics/ur/docs',
-            component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs', 'a1a'),
+            path: '/demo/docs',
+            component: ComponentCreator('/demo/docs', '2b7'),
             routes: [
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/appendix/faq',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/appendix/faq', 'b4e'),
+                path: '/demo/docs/appendix/faq',
+                component: ComponentCreator('/demo/docs/appendix/faq', '513'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/appendix/glossary',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/appendix/glossary', 'bc1'),
+                path: '/demo/docs/appendix/glossary',
+                component: ComponentCreator('/demo/docs/appendix/glossary', '637'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/appendix/troubleshooting', '232'),
+                path: '/demo/docs/appendix/troubleshooting',
+                component: ComponentCreator('/demo/docs/appendix/troubleshooting', 'f25'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/intro',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/intro', 'a12'),
+                path: '/demo/docs/intro',
+                component: ComponentCreator('/demo/docs/intro', '721'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-1/',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-1/', '36c'),
+                path: '/demo/docs/module-1/',
+                component: ComponentCreator('/demo/docs/module-1/', '4d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge', '9a6'),
+                path: '/demo/docs/module-1/rclpy-bridge',
+                component: ComponentCreator('/demo/docs/module-1/rclpy-bridge', 'ca4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-1/ros-nodes', 'fda'),
+                path: '/demo/docs/module-1/ros-nodes',
+                component: ComponentCreator('/demo/docs/module-1/ros-nodes', 'f78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-1/topics-services', '957'),
+                path: '/demo/docs/module-1/topics-services',
+                component: ComponentCreator('/demo/docs/module-1/topics-services', '582'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids', '16d'),
+                path: '/demo/docs/module-1/urdf-humanoids',
+                component: ComponentCreator('/demo/docs/module-1/urdf-humanoids', '38f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-2/',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-2/', '8ac'),
+                path: '/demo/docs/module-2/',
+                component: ComponentCreator('/demo/docs/module-2/', '673'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-2/collisions',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-2/collisions', '8e1'),
+                path: '/demo/docs/module-2/collisions',
+                component: ComponentCreator('/demo/docs/module-2/collisions', '5af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation', '58c'),
+                path: '/demo/docs/module-2/physics-simulation',
+                component: ComponentCreator('/demo/docs/module-2/physics-simulation', '7ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-2/rendering',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-2/rendering', '5a6'),
+                path: '/demo/docs/module-2/rendering',
+                component: ComponentCreator('/demo/docs/module-2/rendering', 'cf0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-2/sensors',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-2/sensors', 'cff'),
+                path: '/demo/docs/module-2/sensors',
+                component: ComponentCreator('/demo/docs/module-2/sensors', '6e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-3/',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-3/', '63a'),
+                path: '/demo/docs/module-3/',
+                component: ComponentCreator('/demo/docs/module-3/', '770'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-3/isaac-sim', 'fb7'),
+                path: '/demo/docs/module-3/isaac-sim',
+                component: ComponentCreator('/demo/docs/module-3/isaac-sim', 'e5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-3/nav2-bipedal',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-3/nav2-bipedal', 'a20'),
+                path: '/demo/docs/module-3/nav2-bipedal',
+                component: ComponentCreator('/demo/docs/module-3/nav2-bipedal', '2cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-3/vslam-navigation',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-3/vslam-navigation', '53f'),
+                path: '/demo/docs/module-3/vslam-navigation',
+                component: ComponentCreator('/demo/docs/module-3/vslam-navigation', '41d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-4/',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-4/', 'b5d'),
+                path: '/demo/docs/module-4/',
+                component: ComponentCreator('/demo/docs/module-4/', '364'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-4/capstone-project', 'e49'),
+                path: '/demo/docs/module-4/capstone-project',
+                component: ComponentCreator('/demo/docs/module-4/capstone-project', 'ebb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-4/llm-planning', 'dca'),
+                path: '/demo/docs/module-4/llm-planning',
+                component: ComponentCreator('/demo/docs/module-4/llm-planning', '4bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/module-4/voice-to-action', 'f4b'),
+                path: '/demo/docs/module-4/voice-to-action',
+                component: ComponentCreator('/demo/docs/module-4/voice-to-action', '09e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/congratulations', '7f8'),
+                path: '/demo/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/demo/docs/tutorial-basics/congratulations', 'b04'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-blog-post', '82d'),
+                path: '/demo/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/demo/docs/tutorial-basics/create-a-blog-post', 'a91'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-document', '60f'),
+                path: '/demo/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/demo/docs/tutorial-basics/create-a-document', '5ef'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/create-a-page', 'e76'),
+                path: '/demo/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/demo/docs/tutorial-basics/create-a-page', '1c4'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/deploy-your-site', '764'),
+                path: '/demo/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/demo/docs/tutorial-basics/deploy-your-site', '3ff'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-basics/markdown-features', '202'),
+                path: '/demo/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/demo/docs/tutorial-basics/markdown-features', '68c'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/manage-docs-versions', 'fb1'),
+                path: '/demo/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/demo/docs/tutorial-extras/manage-docs-versions', '436'),
                 exact: true
               },
               {
-                path: '/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/ur/docs/tutorial-extras/translate-your-site', 'cd4'),
+                path: '/demo/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/demo/docs/tutorial-extras/translate-your-site', '6dc'),
                 exact: true
               }
             ]
@@ -268,8 +268,8 @@ export default [
     ]
   },
   {
-    path: '/physical-ai-humanoid-robotics/ur/',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/ur/', '8ee'),
+    path: '/demo/',
+    component: ComponentCreator('/demo/', '220'),
     exact: true
   },
   {

@@ -5,10 +5,10 @@
   "source": "@site/docs/module-3/isaac-sim.md",
   "sourceDirName": "module-3",
   "slug": "/module-3/isaac-sim",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/isaac-sim",
+  "permalink": "/demo/docs/module-3/isaac-sim",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/isaac-sim.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-3/isaac-sim.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/"
+    "permalink": "/demo/docs/module-3/"
   },
   "next": {
     "title": "VSLAM Navigation",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/vslam-navigation"
+    "permalink": "/demo/docs/module-3/vslam-navigation"
   }
 }

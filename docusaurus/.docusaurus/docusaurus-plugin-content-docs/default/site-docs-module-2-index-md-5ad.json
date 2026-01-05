@@ -5,10 +5,10 @@
   "source": "@site/docs/module-2/index.md",
   "sourceDirName": "module-2",
   "slug": "/module-2/",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-2/",
+  "permalink": "/demo/docs/module-2/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/index.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-2/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "URDF for Humanoids",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/urdf-humanoids"
+    "permalink": "/demo/docs/module-1/urdf-humanoids"
   },
   "next": {
     "title": "Physics Simulation",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/physics-simulation"
+    "permalink": "/demo/docs/module-2/physics-simulation"
   }
 }

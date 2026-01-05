@@ -5,10 +5,10 @@
   "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/rendering.md",
   "sourceDirName": "module-2",
   "slug": "/module-2/rendering",
-  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/rendering",
+  "permalink": "/demo/ur/docs/module-2/rendering",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/rendering.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-2/rendering.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Collisions",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/collisions"
+    "permalink": "/demo/ur/docs/module-2/collisions"
   },
   "next": {
     "title": "Sensors",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/sensors"
+    "permalink": "/demo/ur/docs/module-2/sensors"
   }
 }

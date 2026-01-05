@@ -5,10 +5,10 @@
   "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/urdf-humanoids.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/urdf-humanoids",
-  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids",
+  "permalink": "/demo/ur/docs/module-1/urdf-humanoids",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/urdf-humanoids.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-1/urdf-humanoids.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "rclpy برج",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/rclpy-bridge"
+    "permalink": "/demo/ur/docs/module-1/rclpy-bridge"
   },
   "next": {
     "title": "ماڈیول 2 - ڈیجیٹل ٹوئن (Gazebo & Unity)",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/"
+    "permalink": "/demo/ur/docs/module-2/"
   }
 }

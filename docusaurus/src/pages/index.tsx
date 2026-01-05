@@ -322,7 +322,7 @@ export default function Home(): ReactNode {
                 <div className={styles.footerColumn}>
                   <h4 className={styles.footerColumnTitle}>Resources</h4>
                   <ul className={styles.footerLinkList}>
-                    <li><a href="https://github.com/your-username/physical-ai-humanoid-robotics" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>GitHub</a></li>
+                    <li><a href="https://github.com/muzaffar4011/demo" target="_blank" rel="noopener noreferrer" className={styles.footerLink}>GitHub</a></li>
                     <li><a href="#" className={styles.footerLink}>Community</a></li>
                     <li><a href="#" className={styles.footerLink}>Support</a></li>
                     <li><a href="#" className={styles.footerLink}>FAQ</a></li>
@@ -343,7 +343,7 @@ export default function Home(): ReactNode {
 
             <div className={styles.footerBottom}>
               <div className={styles.footerSocial}>
-                <a href="https://github.com/your-username/physical-ai-humanoid-robotics" target="_blank" rel="noopener noreferrer" className={styles.footerSocialLink} aria-label="GitHub">
+                <a href="https://github.com/muzaffar4011/demo" target="_blank" rel="noopener noreferrer" className={styles.footerSocialLink} aria-label="GitHub">
                   <Github style={{width: '20px', height: '20px'}} />
                 </a>
                 <a href="#" className={styles.footerSocialLink} aria-label="Twitter">

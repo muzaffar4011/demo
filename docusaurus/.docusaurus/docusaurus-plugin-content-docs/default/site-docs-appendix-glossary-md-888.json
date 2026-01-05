@@ -5,10 +5,10 @@
   "source": "@site/docs/appendix/glossary.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/glossary",
-  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/glossary",
+  "permalink": "/demo/docs/appendix/glossary",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/glossary.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/appendix/glossary.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Frequently Asked Questions",
-    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq"
+    "permalink": "/demo/docs/appendix/faq"
   }
 }

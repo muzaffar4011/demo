@@ -5,10 +5,10 @@
   "source": "@site/docs/module-1/ros-nodes.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/ros-nodes",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-1/ros-nodes",
+  "permalink": "/demo/docs/module-1/ros-nodes",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-1/ros-nodes.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-1/ros-nodes.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 1 - The Robotic Nervous System (ROS 2)",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/"
+    "permalink": "/demo/docs/module-1/"
   },
   "next": {
     "title": "Topics and Services",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/topics-services"
+    "permalink": "/demo/docs/module-1/topics-services"
   }
 }

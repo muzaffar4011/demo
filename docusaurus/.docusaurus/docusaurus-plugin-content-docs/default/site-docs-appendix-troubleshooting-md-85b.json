@@ -5,10 +5,10 @@
   "source": "@site/docs/appendix/troubleshooting.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/troubleshooting",
-  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/troubleshooting",
+  "permalink": "/demo/docs/appendix/troubleshooting",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/troubleshooting.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/appendix/troubleshooting.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Capstone Project",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/capstone-project"
+    "permalink": "/demo/docs/module-4/capstone-project"
   },
   "next": {
     "title": "Frequently Asked Questions",
-    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq"
+    "permalink": "/demo/docs/appendix/faq"
   }
 }

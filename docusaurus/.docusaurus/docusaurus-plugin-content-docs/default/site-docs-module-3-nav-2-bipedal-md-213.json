@@ -5,10 +5,10 @@
   "source": "@site/docs/module-3/nav2-bipedal.md",
   "sourceDirName": "module-3",
   "slug": "/module-3/nav2-bipedal",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/nav2-bipedal",
+  "permalink": "/demo/docs/module-3/nav2-bipedal",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/nav2-bipedal.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-3/nav2-bipedal.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "VSLAM Navigation",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/vslam-navigation"
+    "permalink": "/demo/docs/module-3/vslam-navigation"
   },
   "next": {
     "title": "Module 4 - Vision-Language-Action (VLA)",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-4/"
+    "permalink": "/demo/docs/module-4/"
   }
 }

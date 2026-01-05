@@ -1,6 +1,6 @@
 {
-  "permalink": "/physical-ai-humanoid-robotics/ur/blog/first-blog-post",
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/blog/2019-05-28-first-blog-post.md",
+  "permalink": "/demo/blog/first-blog-post",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
   "description": "Lorem ipsum dolor sit amet...",
@@ -9,13 +9,13 @@
     {
       "inline": false,
       "label": "Hola",
-      "permalink": "/physical-ai-humanoid-robotics/ur/blog/tags/hola",
+      "permalink": "/demo/blog/tags/hola",
       "description": "Hola tag description"
     },
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/physical-ai-humanoid-robotics/ur/blog/tags/docusaurus",
+      "permalink": "/demo/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -27,7 +27,7 @@
       "title": "Docusaurus maintainer",
       "url": "https://sebastienlorber.com",
       "page": {
-        "permalink": "/physical-ai-humanoid-robotics/ur/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/demo/blog/authors/all-sebastien-lorber-articles"
       },
       "socials": {
         "x": "https://x.com/sebastienlorber",
@@ -43,7 +43,7 @@
       "title": "Ex-Meta Staff Engineer, Co-founder GreatFrontEnd",
       "url": "https://linkedin.com/in/yangshun",
       "page": {
-        "permalink": "/physical-ai-humanoid-robotics/ur/blog/authors/yangshun"
+        "permalink": "/demo/blog/authors/yangshun"
       },
       "socials": {
         "x": "https://x.com/yangshunz",
@@ -70,6 +70,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Long Blog Post",
-    "permalink": "/physical-ai-humanoid-robotics/ur/blog/long-blog-post"
+    "permalink": "/demo/blog/long-blog-post"
   }
 }

@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-username.github.io",
-  "baseUrl": "/physical-ai-humanoid-robotics/ur/",
-  "organizationName": "your-username",
-  "projectName": "physical-ai-humanoid-robotics",
+  "url": "https://muzaffar4011.github.io",
+  "baseUrl": "/demo/",
+  "organizationName": "muzaffar4011",
+  "projectName": "demo",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
@@ -82,7 +82,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/",
+          "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/",
           "routeBasePath": "docs",
           "showLastUpdateAuthor": false,
           "showLastUpdateTime": false
@@ -96,7 +96,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/",
+          "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -115,7 +115,7 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "فزیکل AI اور ہیومینوئڈ روبوٹکس",
+      "title": "Physical AI & Humanoid Robotics",
       "logo": {
         "alt": "Physical AI & Humanoid Robotics Logo",
         "src": "img/logo.svg"
@@ -125,11 +125,11 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "دستاویزات"
+          "label": "Documentation"
         },
         {
           "to": "/blog",
-          "label": "بلاگ",
+          "label": "Blog",
           "position": "left"
         },
         {
@@ -139,7 +139,7 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://github.com/your-username/physical-ai-humanoid-robotics",
+          "href": "https://github.com/muzaffar4011/demo",
           "label": "GitHub",
           "position": "right"
         }
@@ -184,12 +184,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/physical-ai-humanoid-robotics"
+              "href": "https://github.com/muzaffar4011/demo"
             }
           ]
         }
       ],
-      "copyright": "کاپی رائٹ © 2025 فزیکل AI اور ہیومینوئڈ روبوٹکس۔ تمام حقوق محفوظ ہیں۔"
+      "copyright": "Copyright © 2025 Physical AI & Humanoid Robotics. All rights reserved."
     },
     "prism": {
       "theme": {

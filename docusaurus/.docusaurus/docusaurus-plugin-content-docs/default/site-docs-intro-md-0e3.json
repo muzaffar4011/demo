@@ -5,10 +5,10 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/physical-ai-humanoid-robotics/docs/intro",
+  "permalink": "/demo/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/intro.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Module 1 - The Robotic Nervous System (ROS 2)",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-1/"
+    "permalink": "/demo/docs/module-1/"
   }
 }

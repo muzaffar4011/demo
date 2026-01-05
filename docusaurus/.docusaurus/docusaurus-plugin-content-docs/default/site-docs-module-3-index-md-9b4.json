@@ -5,10 +5,10 @@
   "source": "@site/docs/module-3/index.md",
   "sourceDirName": "module-3",
   "slug": "/module-3/",
-  "permalink": "/physical-ai-humanoid-robotics/docs/module-3/",
+  "permalink": "/demo/docs/module-3/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-3/index.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-3/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Sensors",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-2/sensors"
+    "permalink": "/demo/docs/module-2/sensors"
   },
   "next": {
     "title": "Isaac Sim",
-    "permalink": "/physical-ai-humanoid-robotics/docs/module-3/isaac-sim"
+    "permalink": "/demo/docs/module-3/isaac-sim"
   }
 }

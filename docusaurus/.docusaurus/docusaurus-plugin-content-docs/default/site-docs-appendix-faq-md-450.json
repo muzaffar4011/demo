@@ -5,10 +5,10 @@
   "source": "@site/docs/appendix/faq.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/faq",
-  "permalink": "/physical-ai-humanoid-robotics/docs/appendix/faq",
+  "permalink": "/demo/docs/appendix/faq",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/appendix/faq.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/appendix/faq.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshooting Guide",
-    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/troubleshooting"
+    "permalink": "/demo/docs/appendix/troubleshooting"
   },
   "next": {
     "title": "Glossary",
-    "permalink": "/physical-ai-humanoid-robotics/docs/appendix/glossary"
+    "permalink": "/demo/docs/appendix/glossary"
   }
 }

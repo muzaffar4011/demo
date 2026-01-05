@@ -5,10 +5,10 @@
   "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/index.md",
   "sourceDirName": "module-2",
   "slug": "/module-2/",
-  "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/",
+  "permalink": "/demo/ur/docs/module-2/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/your-username/physical-ai-humanoid-robotics/edit/main/docusaurus/docs/module-2/index.md",
+  "editUrl": "https://github.com/muzaffar4011/demo/edit/main/docusaurus/docs/module-2/index.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ہیومینوئڈز کے لیے URDF",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-1/urdf-humanoids"
+    "permalink": "/demo/ur/docs/module-1/urdf-humanoids"
   },
   "next": {
     "title": "Physics Simulation",
-    "permalink": "/physical-ai-humanoid-robotics/ur/docs/module-2/physics-simulation"
+    "permalink": "/demo/ur/docs/module-2/physics-simulation"
   }
 }
