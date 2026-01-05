@@ -95,7 +95,7 @@ const config: Config = {
       attributes: {
         type: 'text/javascript',
       },
-      innerHTML: `window.CHATBOT_API_URL = "${process.env.CHATBOT_API_URL || process.env.REACT_APP_CHATBOT_API_URL || 'https://rag-chatbot-backend.onrender.com'}";`,
+      innerHTML: `window.CHATBOT_API_URL = "${process.env.CHATBOT_API_URL || process.env.REACT_APP_CHATBOT_API_URL || 'https://demo-zlc2.onrender.com'}";`,
     },
   ],
 
